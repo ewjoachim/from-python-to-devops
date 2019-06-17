@@ -31,6 +31,7 @@ Here are explicit constraints and assumptions that will guide our writing:
     1. CGI, WSGI, Gunicorn/uwsgi (and ASGI)
     1. Flask (/Pyramid)
     1. Django (on the web side)
+    1. Async: Aiohttp / ASGI
     1. Nginx and edge proxy
 1. Task queues
     1. A classic backend: RabbitMQ (also, Redis, Kafka...)
